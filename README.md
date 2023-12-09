@@ -4,8 +4,7 @@ My first repository
 # The Lord of The Rings
 >
 > The Lord of The Rings is one of my favorite fantasy series of all time, both the three novels written by their creator - **J.R.R Tolkien** <br>
-> and the movie trilogy directed by **Peter Jackson** have been very influential during my childhood which lead me to become a fan of <br>
-> the fantasy series.
+> and the movie trilogy directed by **Peter Jackson** have been very influential during my childhood which lead me to become a fan of the fantasy series. <br>
 > <br>
 
 ## The Characters
