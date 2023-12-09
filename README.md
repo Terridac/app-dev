@@ -9,7 +9,7 @@ My first repository
 
 ## The Characters
 > - **Legolas**, an Elven archer hailing from the forests of *Mirkwood* who has lended his skills and bow to aid the *Fellowship of the Ring.* <br>
-> - **Aragorn**, A **Dunedain** ranger and heir to the throne of his kingdom, *Gondor.* <br>
+> - **Aragorn**, A *Dunedain* ranger and heir to the throne of his kingdom, *Gondor.* <br>
 > - **Gimli**, A Dwarven warrior lending his axe to fight against the forces of evil. <br>
 > - **Gandalf**, A mysterious wizard of unknown origins aiding the fellowship to stop the destruction of Middle-Earth. <br>
 > - **Frodo**, A hobbit aristocrat hailing from *The Shire* now on a quest to destroy a great evil from the realm. <br>
